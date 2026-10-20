@@ -343,7 +343,7 @@ const raycaster = new THREE.Raycaster();
 const pointer = new THREE.Vector2();
 const letterDialog = document.getElementById("letter-dialog");
 document.getElementById("letter-message").textContent =
-  "Gửi người mình thương,\n\nCảm ơn em vì đã làm mỗi ngày trở nên đặc biệt. Mong bó hoa nhỏ này mang đến cho em thật nhiều niềm vui và yêu thương.\n\n Happy women day! 💗";
+  "Gửi em !!,\n\nCảm ơn em vì đã làm mỗi ngày trở nên đặc biệt. Mong bó hoa nhỏ này mang đến cho em thật nhiều niềm vui và yêu thương.\n\n Happy women day! 💗";
 
 document.getElementById("letter-close").addEventListener("click", () => letterDialog.close());
 
